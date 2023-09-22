@@ -1,0 +1,4 @@
+Process,Time(s)
+Build Models,407183
+Gold Standard Chains,51215
+RJMCMC Crawlwer,178589
