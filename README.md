@@ -7,5 +7,4 @@ BELMM is a framework for analyzing, clustering, and modelling time-series data i
 This is a repository for supplementary material for "BELMM: Bayesian model selection and random walk smoothing in time-series clustering". For details, please refer to the paper and the associated attachment. Code for data simulation, data processing, and analysing and plotting the results, see *BELMM_R_file.Rmd*. The Stan implementations of the models can be found under *models* folder. For instructions, see *Tutorial*. Additional information is provided at the end of the Supplementary material. The associated files can be found under folder *example*.
 
 ### References
-[Paper](link when available). 
-[Supplementary material](link when available).
+[Paper](https://doi.org/10.1093/bioinformatics/btad686). 
